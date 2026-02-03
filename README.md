@@ -77,4 +77,11 @@ The dataset contains approximately **48,895 listings** with **16 columns**, incl
 
 ---
 
+### 📊 Some Key Exploratory Visualizations
+
+- **Geographical Distribution of Airbnb Listings Across NYC**
+- 
+- **Minimum Stay Distribution (Log Scale)**
+- **Monthly Review Activity per Listing**
+- **Average Airbnb Prices by Neighborhood**
 
