@@ -84,22 +84,18 @@ The dataset contains approximately **48,895 listings** with **16 columns**, incl
      width="900"/>
      
 - **Minimum Stay Distribution (Log Scale)**
- <img src="images/Minimum Stay Distribution (Log Scale).png"
-     alt="Power BI Stock Optimization Dashboard"
+ <img src="images/Distribution of Minimum Nights (Log Scale).png"
      width="900"/>
      
 - **Monthly Review Activity per Listing**
- <img src="images/Monthly Review Activity per Listing.png"
-     alt="Power BI Stock Optimization Dashboard"
+ <img src="images/Reviews per Month.png"
      width="900"/>
      
 - **Average Airbnb Prices by Neighborhood**
- <img src="images/Average Airbnb Prices by Neighborhood.png"
-     alt="Power BI Stock Optimization Dashboard"
+ <img src="images/Average Price by Neighborhood.png"
      width="900"/>
 
 - **Geographical Distribution of Airbnb Listings Across NYC**
-  <img src="images/Geographical Distribution of Airbnb Listings Across NYC.png"
-     alt="Power BI Stock Optimization Dashboard"
+  <img src="images/Distribution of Airbnb Listings in NYC by Neighbourhood.png"
      width="900"/>
 
